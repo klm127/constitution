@@ -14,18 +14,18 @@ _(voted 3/20/2021, 5-0)_
 
 ## Section 1 - Becoming a Member
 
-1. To become a member, prospective members will email a club officer. Contact information can be found at https://unhm-programming-club.github.io/ at the time of this writing.
-1. No prior Programming experience is required.
-1. All members will create a Github account and join the club organization, which is named in the Club Accounts Procedures.
-1. Members are encouraged to join the Discord.
+1. To become a member, prospective members will contact a club officer. Contact information can be found at https://unhm-programming-club.github.io/ .
+2. No prior Programming experience is required.
+3. All members will create a GitHub account and join the club organization, which is named in the Club Accounts Procedures.
+4. Members are highly encouraged to join the Discord.
 
-<p style="color:red">_not voted_</p>
+_(voted 5/1/2021, 5-0)_
 
 ## Section 2 - Individual Member Requirements
 
-1. Members shall make 1 contribution via git/github to a group project by making a pull request, at least once per semester. Other members will assist new members who do not have experience with git/github. These contributions do not have to be code; they can be simple content as well. The purpose is to ensure everyone understands how to use GitHub to contribute to a shared repository. 
+1. Members shall make 1 contribution via git/GitHub to a group project by making a pull request, at least once per semester. It is recommended that members request help on the help channel of the Discord because it is tricky doing a first pull request. These contributions do not have to be code; they can be simple content as well. The purpose is to ensure everyone understands how to use GitHub to contribute to a shared repository.
 
-_(probably voted 3/27/2021, 7-0 - reconfirm)_
+_(voted 5/1/2021, 5-0)_
 
 2. Members shall cast a vote in the yearly elections for officers. Not submitting a vote constitutes abdication of membership. A vote of "Abstain" is a valid vote.
 
@@ -37,17 +37,17 @@ _(voted 3/27/2021, 7-0)_
 
 _(voted 3/27/2021, 7-0)_
 
-5. Members will cast a vote in the yearly officer elections. They may vote to "abstain"
+5. Members will cast a vote in the yearly officer elections. They may vote to 'abstain' or vote 'no confidence'
 
-<p style="color:red">possibly not voted - confirm</p>
+_(voted 5/1/2021, 5-0)_
 
 ## Section 3 - Member Privileges
 
 1. Members may propose a resolution at any club meeting, in a manner appropriate to the meeting's rules of order.
 
-<p style="color:red">not voted</p>
+_(voted 5/1/2021, 5-0)_
 
-2. Members may start a new group programming project on the github organization page, promote that project to members of the club, and be vested with control and leadership over the project they started. The board may cancel a project only if there is a legitimate, specific reason, such as violating conduct requirements.
+2. Members may start a new group programming project on the GitHub organization page, promote that project to members of the club, and be vested with control and leadership over the project they started. The board may cancel a project only if there is a legitimate, specific reason, such as violating conduct requirements.
 
 _(voted 3/27/2021, 7-0)_
 
@@ -57,14 +57,13 @@ _(voted 3/27/2021, 7-0)_
 
 ## Section 4 - Removing Members
 
-1. If a member does not meet individual member requirements, a 50% vote by the board will remove them.
-1. Members will be automatically struck from the rolls if they do not vote in the yearly election, but may re-join the club.
-1. If a member violates the political or sexual harassment sections of the conduct requirements, they may be unilaterally removed by agreement of the club president and vice president, but those officers must validate the circumstances first.
-1. If a member is believed to have violated another section of the conduct requirements, the board will consider the evidence and vote by majority whether to remove them. The evidence must show that the member violated a conduct requirement.
+1. If a member does not meet individual member requirements by the end of the semester, they will be automatically removed from the list of members. They are permitted to re-join and try again.
+2.  If a member violates a section of the conduct requirements that involves targeting another individual member, such as sexual harassment, political harassment, or bullying, they may be unilaterally removed by agreement of the club president and vice president, but those officers must validate the circumstances first.
+3.  If a member is believed to have violated another section of the conduct requirements, the board will consider the evidence and vote by majority whether to remove them. The evidence must show that the member violated a conduct requirement.
 
-<p style="color:red">_not voted_</p>
+_(voted 5/1/2021, 5-0)_
 
-## Section 5 - Adjuct Members
+## Section 5 - Adjunct Members
 
 1. Members from the UNH Durham Campus and students who have left UNH within the last 2 years may have adjunct membership.
 1. Adjunct members must follow the same conduct rules as regular members.
@@ -118,6 +117,10 @@ _(elected 3/27/2021, 7-0)_
  
 _(elected 4/25/2021, 5-0)_
 
+ - Derek Santiago, Treasurer
+
+ _(elected 5/1/2021, 5-0)_
+
 The first faculty advisor is Professor Mihaela Sabin.
 
 _(voted 4/10/2021, 6-0)_
@@ -130,12 +133,15 @@ _(voted 3/27/2021, 7-0)_
 
 ## Section 2 - Officer Roles:
 
-- The **President** will preside over meetings, ensure the club in conformity with UNHM requirements once official, and safeguard club accounts
-- The **Vice President** will perform the responsibilities of the president when the president is unable to do so, and also safeguard club accounts
-- The **Secretary** will keep a record of meetings and member contact info, and will create a summary of the meeting and upload that summary to Github after the meeting is concluded. They will send out an invite to club members before the club meets
-- The **Discord Admins** will organize and create rules for the Discord, approve changes to the Discord bot, and be vested with the power to kick individuals from the discord for legitimate reasons.
+- The **President** will preside over meetings, ensure the club is in conformity with UNHM requirements, and safeguard club accounts. The president will make the agenda and send out an invite to club members before the club meets.
 
-<p style="color:red">not voted</p>
+- The **Vice President** will perform the responsibilities of the president when the president is unable to do so, and also safeguard club accounts. The Vice President will be first in line to take on duties of officer roles that are not yet filled.
+
+- The **Secretary** will keep a record of meetings and member contact info, and will create a summary of the meeting and upload that summary to GitHub after the meeting is concluded. 
+
+- The **Discord Admins** will organize and create rules for the Discord, approve changes to the Discord bot, and be vested with the power to kick individuals from the discord for legitimate reasons, such as breaking defined Discord rules.
+
+_(voted 5/1/2021, 5-0)_
 
 - The **Treasurer** will track expenses, investigate fundraising activities, submit requests for funds, and allocate funds for projects.
 - The **Quartermaster** will budget and plan events, ensure enough supplies are acquired, and organize and direct the trip safely.
@@ -159,7 +165,7 @@ _(voted 4/17/2021, 7-0)_
 
 1. Membership may vote to remove an officer by a 2/3 vote.
 
-1. If an officer is removed, their duties shall be delegated to the vice president until a replacement can be elected. An election shall be held at the next member meeting. If no replacement can be found, teh vice president will continue to fulfill those duties unless the board elects to delegate those duties in another manner.
+1. If an officer is removed, their duties shall be delegated to the vice president until a replacement can be elected. An election shall be held at the next member meeting. If no replacement can be found, the vice president will continue to fulfill those duties unless the board elects to delegate those duties in another manner.
 
 _(voted 4/17/2021, 7-0)_
 
@@ -167,13 +173,10 @@ _(voted 4/17/2021, 7-0)_
 
 ## Section 1 - Quorum, Eligibility
 
-1. The quorum for a board is 50% of board members in attendance and the quorum for the club is 50% of club members in attendance. Quorum is not required for yearly elections, because non-voting members are removed from the rolls. Quorum must be met for a vote on a resolution to be valid.
+1. The quorum for a board is 50% of board members in attendance and the quorum for the club is 50% of club members in attendance. Quorum must be met for a vote on a resolution to be valid.
+2. Quorum is not required for yearly elections, because non-voting members are removed from the rolls.
 
-<p style="color:red">not voted</p>
-
-2. Voters must meet the membership qualifications.
-
-<p style="color:red">not voted</p>
+_(voted 5/1/2021, 5-0)_
 
 3. The board may elect to limit a vote to UNHM members only. 
 
@@ -208,7 +211,7 @@ _(voted 4/25/2021, 5-0)_
 
 The board of directors will vote once per year, after being elected to their posts, whether to keep the current faculty advisor or interview new faculty advisor candidates. If the board votes to remove the faculty advisor, a new faculty advisor will be approved by a vote of the majority of the club. If no faculty advisor is found, the club will continue without a faculty advisor, but may lose its official status.
 
-<p style="color:red">not voted</p>
+_(voted 5/1/2021, 5-0)_
 
 # Article VI - Meetings
 
@@ -229,7 +232,7 @@ _(voted 4/25/2021, 5-0)_
 
 _(voted 4/25/2021, 5-0)_
 
-## Section 4 : Parliametry Procedure
+## Section 4 : Parliamentary Procedure
 
 1. Meetings will be conducted informally, using the spirit of Robert's Rules of Order as described in the attached document, `Roberts-Rules-of-Order.pdf`.
 1. Any attendee of a meeting may request that the meeting follow Robert's Rules of Order strictly, and the chair of the meeting will subsequently implement Robert's Rules.
@@ -238,15 +241,15 @@ _(voted 4/24/2021, 6-0)_
 
 # Article VII - Conduct
 
-1. Any conversations on the club discord or in club meetings that violate UNHM's academic honestly policy are disallowed. If a member wants help with their homework, helping members should ask them socratic questions or point them to useful resources, but shall not complete their homework for them or hand them the answers.
+1. Any conversations on the club discord or in club meetings that violate UNHM's academic honestly policy are disallowed. If a member wants help with their homework, helping members should ask them Socratic questions or point them to useful resources, but shall not complete their homework for them or hand them the answers.
 
 1. This club will be apolitical. It will never make any official statements about topical political issues. The club is about programming only, not about politics. Politics also have no place on the Discord server, which shall be about Programming and UNH.
 
 1. In accordance with the University of New Hampshire non-discrimination statement, this club will not discriminate based on race, color, religion, sex, age, national origin, sexual orientation, gender identity expression, disability, veteran status, marital status, genetic information, pregnancy, or political orientation. These facets of an individual will not be considered when voting or appointing them to an officer role, as a member of a committee, as a group project leader, or any other position. Discussions about these things also generally do not belong on the discord or in meetings, as they do not relate to programming. 
 
-1. Sexual harrassment of any kind will not be tolerated. Any member who sexually harasses any individual on a club communication platform or any individual they met on a club communication platform will be expelled from the club and be reported to the university or the authorities. This club will be a place where all sexes can be comfortable and be treated equally, without having to worry about harassment. This means there is to be no discussion of sex in the discord or in meetings.
+1. Sexual harassment of any kind will not be tolerated. Any member who sexually harasses any individual on a club communication platform or any individual they met on a club communication platform will be expelled from the club and be reported to the university or the authorities. This club will be a place where all sexes can be comfortable and be treated equally, without having to worry about harassment. This means there is to be no discussion of sex in the discord or in meetings.
 
-1. Vulgar language is not permitted in the Discord or in meetings. While sometimes individuals accidentally swear, consistant violators may face censure, muting, or, in egregious cases, explusion.
+1. Vulgar language is not permitted in the Discord or in meetings. While sometimes individuals accidentally swear, consistent violators may face censure, muting, or, in egregious cases, expulsion.
 
 1. Members will treat each other with respect and kindness. Members will show patience with members who do not have as much programming experience as they do. Members will not mock or bully other members.
 
